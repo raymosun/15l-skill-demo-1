@@ -1,5 +1,5 @@
 class SkillDemo{
     public static int doubleX(int x){
-        return x;
+        return 2*x;
     }
 }
